@@ -39,10 +39,12 @@
     margin: 0;
     padding: 0px;
   }
-  .tasks-list-item, .list-title {
+  .tasks-list-item, 
+  .list-title {
     list-style: none;
   }
-  .task, .button{
+  .task, 
+  .button{
     outline: none;
   }
   .button {
